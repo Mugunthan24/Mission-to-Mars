@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+Practice.ipynb
+Practice\ 2.ipynb
+index.html
 # Distribution / packaging
 .Python
 build/
